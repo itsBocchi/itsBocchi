@@ -1,4 +1,4 @@
-### Hello there, I'm Cristian, local Game Dev and Engineer 👋
+### Hello there, I'm Cristian, Game Dev and Engineer 👋
 
 <!--
 **itsBocchi/itsBocchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
